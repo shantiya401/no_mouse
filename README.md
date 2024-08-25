@@ -65,15 +65,3 @@ Contact
 For any questions or issues, please feel free to reach out.
 
 You can follow me on GitHub
-
-
-### Key Points:
-
-- **General Description**: The `README.md` should provide a general overview of what the project is about and its main features.
-- **Requirements**: List the software requirements and provide installation instructions.
-- **Installation**: Provide clear instructions on how to install and set up the project.
-- **Usage**: Explain how to run the project and include examples of voice commands.
-- **Contributing and License**: Provide guidelines for contributing and information about the project's license.
-- **Contact Information**: Offer a way for users to get in touch with you for questions or issues.
-
-Feel free to modify or expand upon this template as needed for your project!
