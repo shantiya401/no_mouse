@@ -24,30 +24,30 @@
 
 ```bash
 pip install speech_recognition pyautogui screen_brightness_control pycaw psutil
+```
 نصب
 برای نصب و استفاده از No Mouse، مراحل زیر را دنبال کنید:
 
 این پروژه را از گیت‌هاب کلون کنید یا فایل‌های پروژه را دانلود کنید.
 
-bash
-Copy code
-git clone https://github.com/shantiya402/no_mouse.git
+```bash
+git clone https://github.com/shantiya401/no_mouse.git
+```
 به دایرکتوری پروژه بروید:
 
-bash
-Copy code
+```bash
 cd no_mouse
+```
 پیش‌نیازهای مورد نیاز را نصب کنید:
 
-bash
-Copy code
+```bash
 pip install -r requirements.txt
-
+```
 استفاده
 برای اجرای No Mouse، فایل no_mouse.py را با استفاده از Python اجرا کنید:
-bash
-Copy code
+```bash
 python no_mouse.py
+```
 
 
 برنامه به طور مداوم به دستورات صوتی گوش می‌دهد و بسته به دستوراتی که دریافت می‌کند، عمل مربوطه را انجام می‌دهد. دستورات صوتی ممکن است شامل موارد زیر باشد:
