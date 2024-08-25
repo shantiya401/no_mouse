@@ -29,7 +29,7 @@ To install and use No Mouse, follow these steps:
 Clone the repository from GitHub or download the project files.
 
 
-git clone https://github.com/shantiya402/no_mouse.git
+git clone https://github.com/shantiya401/no_mouse.git
 Navigate to the project directory:
 
 
