@@ -23,7 +23,7 @@ You can install these dependencies using pip:
 
 ```bash
 pip install speech_recognition pyautogui screen_brightness_control pycaw psutil
-Installation```
+```
 
 #
 To install and use No Mouse, follow these steps:
@@ -31,15 +31,16 @@ To install and use No Mouse, follow these steps:
 Clone the repository from GitHub or download the project files.
 
 ```bash
-git clone https://github.com/shantiya401/no_mouse.git```
-
+git clone https://github.com/shantiya401/no_mouse.git
+```
 
 Navigate to the project directory:
 
 ```bash
 cd no_mouse
-Install the required dependencies:
 ```
+
+Install the required dependencies:
 
 ```bash
 pip install -r requirements.txt
