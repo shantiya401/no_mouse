@@ -23,26 +23,34 @@ You can install these dependencies using pip:
 
 ```bash
 pip install speech_recognition pyautogui screen_brightness_control pycaw psutil
-Installation
+Installation```
+
 To install and use No Mouse, follow these steps:
 
 Clone the repository from GitHub or download the project files.
 
-
+```bash
 git clone https://github.com/shantiya401/no_mouse.git
+```
+
 Navigate to the project directory:
 
-
+```bash
 cd no_mouse
 Install the required dependencies:
+```
 
-
+```bash
 pip install -r requirements.txt
+```
+
 Usage
 To run No Mouse, execute the no_mouse.py file using Python:
 
-
+```bash
 python no_mouse.py
+```
+
 The program continuously listens for voice commands and performs the corresponding action based on the received command. Voice commands may include the following:
 
 dim to decrease brightness
